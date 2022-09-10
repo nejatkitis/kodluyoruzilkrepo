@@ -4,7 +4,7 @@
 
 ```
 
-[git clone https://github.com/nejatkitis/kodluyoruzilkrepo.git](https://github.com/nejatkitis/kodluyoruzilkrepo.git)
+[git clone ](https://github.com/nejatkitis/kodluyoruzilkrepo.git)
 
 ```
 
